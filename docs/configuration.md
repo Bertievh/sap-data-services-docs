@@ -4,7 +4,7 @@ sidebar_label: 'SAPDS Connector Configuation'
 
 # SAP Data Services Connector Configuation
 
-## Overveiw
+## Overview
 
 This section will walk you through updating the Connector.config file. That contains information for the SAP DataServices Connector that defines the address of the web services and the location of the BODS_WSDL.wsdl file.
 
