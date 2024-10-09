@@ -2,7 +2,7 @@
 sidebar_label: 'SAPDS Connector Configuation'
 ---
 
-# SAP Data Sercices Connector Configuation
+# SAP Data Services Connector Configuation
 
 ## Overveiw
 
