@@ -1,5 +1,5 @@
 ---
-sidebar_label: Defining a Job
+sidebar_label: Enterprise Manager Defining a Job
 ---
 
 # Defining SAP Data Services Jobs using Enterprise Manager

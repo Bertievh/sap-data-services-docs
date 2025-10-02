@@ -1,5 +1,5 @@
 ---
-sidebar_label: 'Subtype Set-up'
+sidebar_label: 'Enterprise Manager Subtype Set-up'
 ---
 
 # SAP Data Services Subtype Installation
@@ -11,10 +11,10 @@ After unzipping the SAP Data Services Connector package perform the following st
 ## Installing the Sub-Type
 
 1. Within ```<media>\SAPDataServices\emplugins``` directory, locate the jar file called: ```com.sma.ui.core.jobdetails.sapds_1.0.0.202009230702.jar```.
-2. Copy the jar file from the DNA distribution directory, ```<media>:\SMADNAConnector\emplugins``` into ```<media>:\OpConxps\EnterpriseManager x64\dropins``` folder.
+2. Copy the jar file from the DNA distribution directory, ```<media>:\SAPDataServices\emplugins``` into ```<media>:\OpConxps\EnterpriseManager x64\dropins``` folder.
 
 :::note
-These steps need to occur on every enduser's machine that has access to Enterprise Manager to ensure their access to the sub-type.
+These steps need to occur on every end user's machine that has access to Enterprise Manager to ensure their access to the sub-type.
 :::
 
 ## Confirm the Sub-Type
